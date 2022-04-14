@@ -21,10 +21,7 @@
                                 {
                                     "name": "Passer domesticus",
                                     "numLeafs": 1,
-                                    "ottId": "ott962391",
-                                    "children": 
-                                        }
-                                    ]
+                                    "ottId": "ott962391"
                                 }
                             ]
                         }
@@ -32,3 +29,5 @@
                 }
             ]
         }
+    ]
+}
