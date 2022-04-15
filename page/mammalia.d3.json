@@ -1,27 +1,22 @@
 {
     "name": "Aves",
     "numLeafs": 1,
-    "ottId": "ott244265",
     "children": [
         {
             "name": "Passeriformes",
             "numLeafs": 1,
-            "ottId": "ott962395",
             "children": [
                 {
                     "name": "Passeridae",
                     "numLeafs": 1,
-                    "ottId": "ott962396",
                     "children": [
                         {
                             "name": "Passer",
                             "numLeafs": 1,
-                            "ottId": "ott962396",
                             "children": [
                                 {
                                     "name": "Passer domesticus",
                                     "numLeafs": 0,
-                                    "ottId": "ott962391"
                                 }
                             ]
                         }
